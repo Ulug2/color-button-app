@@ -13,11 +13,13 @@ The following **required** functionality is completed:
 - [x] Users see a screen with three labels and a button  
 - [x] Tapping the button changes the screen color to a random color  
 
-## Video Walkthrough  
+## Video Walkthrough   
 
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README.  
-
-[Guide](https://www.youtube.com/watch?v=GA92eKlYio4)  
+<div>
+    <a href="https://www.loom.com/share/f69597db871947db81dc53398364eac5">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/f69597db871947db81dc53398364eac5-662826f9e5106ae4-full-play.gif">
+    </a>
+</div>)  
 
 ## App Brainstorming (Step 4)  
 
